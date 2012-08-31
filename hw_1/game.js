@@ -13,7 +13,7 @@ function redrawAll() {
     ctx.font = "20px Arial";
     ctx.fillText("Press 'q' to quit.", 20, 40);
 }
-
+//qweqweqweqpodsfispdofi
 function onTimer() {
     if (quit) return;
     rectLeft = (rectLeft + 10) % 400;
